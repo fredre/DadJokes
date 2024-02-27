@@ -1,2 +1,3 @@
 # DadJokes
-Just some practice on using Git and Github
+Why don't skeletons fight each other?
+They don't have the guts!
